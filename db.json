@@ -126,6 +126,129 @@
         "kpiNormalized": 0.77,
         "kpiDate": "2023-08-25 00:00:00.000"
       }
+    },
+    {"reportName": "Sprint 2",
+      "reportUuid": "rfg123",
+      "repeatableDomainTraining": {
+        "kpiScore" : 60,
+        "kpiMaxScore": 100,
+        "kpiNormalized": 1,
+        "kpiDate": "2023-08-25 00:00:00.000"
+      },
+      "personAccountableIdentified":{
+        "kpiScore" : 1,
+        "kpiMaxScore": 1,
+        "kpiNormalized": 0.6,
+        "kpiDate": "2023-08-25 00:00:00.000"
+      },
+      "glossary":{
+        "kpiScore" : 60,
+        "kpiMaxScore": 100,
+        "kpiNormalized": 1,
+        "kpiDate": "2023-08-25 00:00:00.000"
+      },
+      "initialDomainTraining":{
+        "kpiScore" : 60,
+        "kpiMaxScore": 100,
+        "kpiNormalized": 0.3,
+        "kpiDate": "2023-08-25 00:00:00.000"
+      },
+      "pairProgramming":{
+        "kpiScore" : 60,
+        "kpiMaxScore": 100,
+        "kpiNormalized": 0.8,
+        "kpiDate": "2023-08-25 00:00:00.000"
+      },
+      "proposalPresentation":{
+        "kpiScore" : 60,
+        "kpiMaxScore": 100,
+        "kpiNormalized": 0.2,
+        "kpiDate": "2023-08-25 00:00:00.000"
+      },
+      "1stSpringOutcome":{
+        "kpiScore" : 60,
+        "kpiMaxScore": 100,
+        "kpiNormalized": 0.8,
+        "kpiDate": "2023-08-25 00:00:00.000"
+      },
+      "ci/cd":{
+        "kpiScore" : 60,
+        "kpiMaxScore": 100,
+        "kpiNormalized": 0.2,
+        "kpiDate": "2023-08-25 00:00:00.000"
+      },
+      "ddd":{
+        "kpiScore" : 60,
+        "kpiMaxScore": 100,
+        "kpiNormalized": 0.63,
+        "kpiDate": "2023-08-25 00:00:00.000"
+      },
+      "pr":{
+        "kpiScore" : 60,
+        "kpiMaxScore": 100,
+        "kpiNormalized": 0.23,
+        "kpiDate": "2023-08-25 00:00:00.000"
+      },
+      "security&Pil":{
+        "kpiScore" : 60,
+        "kpiMaxScore": 100,
+        "kpiNormalized": 0.63,
+        "kpiDate": "2023-08-25 00:00:00.000"
+      },
+      "testStrategy":{
+        "kpiScore" : 60,
+        "kpiMaxScore": 100,
+        "kpiNormalized": 0.7,
+        "kpiDate": "2023-08-25 00:00:00.000"
+      },
+      "automationLevel":{
+        "kpiScore" : 60,
+        "kpiMaxScore": 100,
+        "kpiNormalized": 0.4,
+        "kpiDate": "2023-08-25 00:00:00.000"
+      },
+      "report":{
+        "kpiScore" : 60,
+        "kpiMaxScore": 100,
+        "kpiNormalized": 0.54,
+        "kpiDate": "2023-08-25 00:00:00.000"
+      },
+      "format":{
+        "kpiScore" : 60,
+        "kpiMaxScore": 100,
+        "kpiNormalized": 0.7,
+        "kpiDate": "2023-08-25 00:00:00.000"
+      },
+      "dod":{
+        "kpiScore" : 60,
+        "kpiMaxScore": 100,
+        "kpiNormalized": 0.8,
+        "kpiDate": "2023-08-25 00:00:00.000"
+      },
+      "dor":{
+        "kpiScore" : 60,
+        "kpiMaxScore": 100,
+        "kpiNormalized": 0.4,
+        "kpiDate": "2023-08-25 00:00:00.000"
+      },
+      "bdd":{
+        "kpiScore" : 60,
+        "kpiMaxScore": 100,
+        "kpiNormalized": 0.78,
+        "kpiDate": "2023-08-25 00:00:00.000"
+      },
+      "sprintPoint":{
+        "kpiScore" : 60,
+        "kpiMaxScore": 100,
+        "kpiNormalized": 1.05,
+        "kpiDate": "2023-08-25 00:00:00.000"
+      },
+      "superKpi":{
+        "kpiScore" : 60,
+        "kpiMaxScore": 100,
+        "kpiNormalized": 0.77,
+        "kpiDate": "2023-08-25 00:00:00.000"
+      }
     }
     ]
   },
