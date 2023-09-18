@@ -49,7 +49,7 @@
         "kpiNormalized": 0.6,
         "kpiDate": "2023-08-25 00:00:00.000"
       },
-      "ci/cd":{
+      "cicd":{
         "kpiScore" : 60,
         "kpiMaxScore": 100,
         "kpiNormalized": 0.11,
@@ -67,7 +67,7 @@
         "kpiNormalized": 0.33,
         "kpiDate": "2023-08-25 00:00:00.000"
       },
-      "security&Pil":{
+      "securityAndPil":{
         "kpiScore" : 60,
         "kpiMaxScore": 100,
         "kpiNormalized": 0.33,
@@ -167,13 +167,13 @@
         "kpiNormalized": 0.2,
         "kpiDate": "2023-08-25 00:00:00.000"
       },
-      "1stSpringOutcome":{
+      "firstSpringOutcome":{
         "kpiScore" : 60,
         "kpiMaxScore": 100,
         "kpiNormalized": 0.8,
         "kpiDate": "2023-08-25 00:00:00.000"
       },
-      "ci/cd":{
+      "cicd":{
         "kpiScore" : 60,
         "kpiMaxScore": 100,
         "kpiNormalized": 0.2,
@@ -191,7 +191,7 @@
         "kpiNormalized": 0.23,
         "kpiDate": "2023-08-25 00:00:00.000"
       },
-      "security&Pil":{
+      "securityAndPil":{
         "kpiScore" : 60,
         "kpiMaxScore": 100,
         "kpiNormalized": 0.63,
